@@ -1,0 +1,17 @@
+\begin{frame}
+  \frametitle{iClicker Question}
+Choose from the following options. This item will be graded.
+\begin{block}{iClicker Question}
+   Which of these phrases occurs in the Manifesto?
+\end{block}
+\begin{description}
+% W. Churchill
+\item[A\hspace{.2in}$\blacktriangleright$] Success consists of going from failure to failure without loss of enthusiasm.
+% B. Sanders
+\item[B\hspace{.2in}$\blacktriangleright$] Let us wage a moral and political war against the billionaires and corporate leaders, whose policies and greed are destroying the middle class.
+% K. Marx
+\item[C\hspace{.2in}$\blacktriangleright$] Two great hostile camps facing each other: Bourgeoisie and Proletariat.
+% A. Lincoln
+\item[D\hspace{.2in}$\blacktriangleright$] Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+\end{description}
+\end{frame}

@@ -1,3 +1,4 @@
+to start a new file,create it in emacs and run stefan-insert-iClicker-question
 4511,vanhoozer
 6200,vanhoozer
 2264,strawson
@@ -12,6 +13,7 @@
 4435,taylor
 3878,taylor
 7014,parfit
+7859,parfit
 2042,hume
 3181,hume
 1399,holub
@@ -58,35 +60,34 @@
 1511,solnit ii
 7230,solnit i
 2584,solnit i
-7859
-1203
-1997
-5902
-5055
-1918
-6905
-2482
-1440
-3484
-2627
-2255
-6465
-7397
-3745
-8323
-3760
-3075
-7174
-9839
-3268
-8170
-8183
-4790
-9296
-6595
-7252
-1976
-3977
+1203,nehamas
+1997,nehamas
+5902,nietzsche hath
+5055,nietzsche hath
+1918,leiter
+6905,leiter
+2482,freud
+1440,freud
+3484,riccardi
+2627,riccardi
+2255,richardson
+6465,richardson
+7397,janaway
+3745,janaway
+8323,nietzsche db
+3760,nietzsche db
+3075,marx cm
+7174,marx pf
+9839,wallace
+3268,wallace
+8170,nietzsche gom
+8183,nietzsche gom
+4790,love
+9296,love
+6595,williams gen
+7252,williams gen
+1976,geuss
+3977,geuss
 1231
 6033
 1507
